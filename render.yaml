@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: flask-api
+    name: flask-api-key
     env: python
     buildCommand: ""
     startCommand: "python app.py"
